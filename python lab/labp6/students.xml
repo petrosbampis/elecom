@@ -1,0 +1,22 @@
+<students>
+    <student>
+        <name>Γιώργος Παπαδόπουλος</name>
+        <age>22</age>
+        <department>Πληροφορική</department>
+    </student>
+    <student>
+        <name>Μαρία Νικολάου</name>
+        <age>20</age>
+        <department>Ηλεκτρολόγων Μηχανικών</department>
+    </student>
+    <student>
+        <name>Ιωάννα Σπύρου</name>
+        <age>21</age>
+        <department>Φυσικής</department>
+    </student>
+    <student>
+        <name>Στέλιος Νίκου</name>
+        <age>23</age>
+        <department>Φυσικής</department>
+    </student>
+</students>
